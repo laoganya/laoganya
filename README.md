@@ -1,10 +1,10 @@
 # laoganya.github.io
 ### This is a readme text.
-I will use this to record my learning process about **Markdown**. and <strong> in HTML.
+I will use this to record my learning process about **Markdown**. and <strong> in HTML.  
 
-This is *Italic*. And in HTML, we will use <em> </em>.
+This is *Italic*. And in HTML, we will use <em> </em>.  
 
-If we want both, like ***this is the most important thing***!
+If we want both, like ***this is the most important thing***!  
 
 The following will be reference unit.
 > Can you tell the difference?
