@@ -37,4 +37,5 @@ This is a [url test link](https://www.baidu.com), and an email <gengyuanliu@mail
 
 ## Figure section
 Use exclamation point to add figures.  
-![dodo](images/dodo.jpg "dodo")
+![dodo](images/dodo.jpg "dodo")  
+
