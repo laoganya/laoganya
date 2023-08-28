@@ -23,3 +23,7 @@ If we want many paragraph, we shall add an ">" in the blank row.
 2. item 2
    - dis1
      - dis2
+
+## Code section
+If you want to represent code in Markdown, you can use single quatation mark to include it, like 'Function'.
+
