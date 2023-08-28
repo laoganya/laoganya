@@ -2,7 +2,7 @@
 ### This is a readme text.
 ## Font operation  
 - Bold text
-- italic text  
+- italic text
 I will use this to record my learning process about **Markdown**, and <strong> in HTML.  
 
 This is *Italic*. And in HTML, we will use <em> </em>.  
