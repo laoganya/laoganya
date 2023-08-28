@@ -18,3 +18,8 @@ If we want many paragraph, we shall add an ">" in the blank row.
 > This is the second paragraph.
 >> This is double built-in
 
+## Ordered list
+1. item 1
+2. item 2
+   - dis1
+     - dis2
