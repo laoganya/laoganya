@@ -33,5 +33,7 @@ As for code block, you need to retract at least **4** space or a **tab** in ever
 
 --------------------------------
 
-This is a [url test link](https://www.baidu.com).
+This is a [url test link](https://www.baidu.com), and an email <gengyuanliu@mail.ustc.edu.cn>.
 
+## Figure section
+Use exclamation point to add figures. ![dodo](images/dodo/jpg "dodo")
