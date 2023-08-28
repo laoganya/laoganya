@@ -25,5 +25,5 @@ If we want many paragraph, we shall add an ">" in the blank row.
      - dis2
 
 ## Code section
-If you want to represent code in Markdown, you can use single quatation mark to include it, like 'Function'.
+If you want to represent code in Markdown, you can use back quote mark to include it, like `type`.
 
