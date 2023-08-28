@@ -25,5 +25,13 @@ If we want many paragraph, we shall add an ">" in the blank row.
      - dis2
 
 ## Code section
-If you want to represent code in Markdown, you can use back quote mark to include it, like `type`.
+If you want to represent code in Markdown, you can use back quote mark to include it, like `type`.  
+As for code block, you need to retract at least **4** space or a **tab** in every row, like,
+   <html>
+      <p>Hello,world!</p>
+   </html>
+
+--------------------------------
+
+This is a [url test link](https://www.baidu.com).
 
